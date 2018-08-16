@@ -1,0 +1,7 @@
+C:\Users\dwang21\Data\PythonTool\FVMonitor\FVMonitor\FVMonitor\bin\Release\FVMonitor.exe.config
+C:\Users\dwang21\Data\PythonTool\FVMonitor\FVMonitor\FVMonitor\bin\Release\FVMonitor.exe
+C:\Users\dwang21\Data\PythonTool\FVMonitor\FVMonitor\FVMonitor\obj\Release\FVMonitor.csprojResolveAssemblyReference.cache
+C:\Users\dwang21\Data\PythonTool\FVMonitor\FVMonitor\FVMonitor\obj\Release\FVMonitor.MainForm.resources
+C:\Users\dwang21\Data\PythonTool\FVMonitor\FVMonitor\FVMonitor\obj\Release\FVMonitor.Monitered.resources
+C:\Users\dwang21\Data\PythonTool\FVMonitor\FVMonitor\FVMonitor\obj\Release\FVMonitor.csproj.GenerateResource.Cache
+C:\Users\dwang21\Data\PythonTool\FVMonitor\FVMonitor\FVMonitor\obj\Release\FVMonitor.exe
